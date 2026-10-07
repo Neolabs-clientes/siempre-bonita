@@ -1,0 +1,361 @@
+{
+  "id": "ChIJazMyIgCLQQ0Rjr4VvgQdAr4",
+  "types": [
+    "womens_clothing_store",
+    "clothing_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+34 624 36 53 43",
+  "formattedAddress": "Av. de Europa, 14, 28943 Fuenlabrada, Madrid, Spain",
+  "rating": 5,
+  "googleMapsUri": "https://maps.google.com/?cid=13691537723365899918&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 14,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 17,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 14,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 17,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 14,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 17,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 14,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 17,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 14,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 17,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 14,
+          "minute": 30
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 10:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+      "Tuesday: 10:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+      "Wednesday: 10:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+      "Thursday: 10:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+      "Friday: 10:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+      "Saturday: 10:00 AM – 2:30 PM",
+      "Sunday: Closed"
+    ],
+    "nextOpenTime": "2026-10-07T15:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 43,
+  "displayName": {
+    "text": "Siempre Bonita",
+    "languageCode": "es"
+  },
+  "shortFormattedAddress": "Av. de Europa, 14, Fuenlabrada",
+  "reviews": [
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KamNEQlBhemN4VTJRMFNqbFRkSE5aVkUxSmFWRRAB",
+      "relativePublishTimeDescription": "3 months ago",
+      "rating": 5,
+      "text": {
+        "text": "Newly opened clothing and accessories store with sizes from 40 to 56. Reasonable prices and lovely staff. They also do alterations.",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Tienda de ropa y complementos recien inaugurada con tallas desde la 40 a la 56. Precios ajustados y gente encantadora atendiendo. Hacen tambien arreglos.",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Noemi Ibañez",
+        "uri": "https://www.google.com/maps/contrib/111384564925347112392/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUW6slS7tpU3n6yHb3uz0RP7VpzAjj7QUQWufLvMrvrsUj4paAo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-06-20T13:04:41.948409739Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KamNEQlBhemN4VTJRMFNqbFRkSE5aVkUxSmFWRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KamNEQlBhemN4VTJRMFNqbFRkSE5aVkUxSmFWRRAB!2m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WdlZuWjFZMUZ5UkdoRlIwdFFVVkl5U1hkS2VIYxAB",
+      "relativePublishTimeDescription": "3 months ago",
+      "rating": 5,
+      "text": {
+        "text": "I loved visiting the shop and meeting Yoli and her wife. They have clothes for many styles and sizes starting from 38; accessories, Arabic perfumes... Shops like this, with such professionalism, dedication, patience, and passion for what they do, truly deserve to last. They have raffles with purchases, offering small gifts. And they do live streams on TikTok to show new arrivals; you can order something and they'll hold it for you until you can come and try it on, no strings attached. In short, thank you for everything on behalf of myself and my mother. It was a pleasure spending almost the entire afternoon in your shop, \"Siempre bonita\" 💜",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Me ha encantado conocer la tienda y a Yoli con su mujer. Hay ropa para muchos estilos y tallaje desde 38 ;complementos ,perfumes árabes ... La verdad que tiendas así con la profesionalidad ,dedicación, paciencia y gusto por lo que se hace tienen que perdurar mucho. Hay sorteos con las compras que haces de algún detalle . Y en tiktok hacen directos para enseñar las novedades ,pides algo y te lo guardan hasta que puedas ir,probartelo sin compromiso..En definitiva, gracias por todo en nombre mía y de mi madre. Fue un gusto pasar casi casi toda la tarde en tu tienda \"Siempre bonita\" 💜",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Patri",
+        "uri": "https://www.google.com/maps/contrib/100972866124163300115/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxXTolzzPKRsoaLbyw2By1462XorKpZ7KJe2Opq94zws7Vlw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-06-12T07:59:55.702337689Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WdlZuWjFZMUZ5UkdoRlIwdFFVVkl5U1hkS2VIYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WdlZuWjFZMUZ5UkdoRlIwdFFVVkl5U1hkS2VIYxAB!2m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jeldqQmxla3hoTTNBM1ZFZ3ljRFJzV0dwQmNrRRAB",
+      "relativePublishTimeDescription": "4 months ago",
+      "rating": 5,
+      "text": {
+        "text": "A shop created with all of us in mind, where you can find all sizes. They even offer the convenience of having their own seamstress who can help you with whatever you need. Once you discover it, you'll think, \"Why would I shop anywhere else when I have SIEMPRE BONITA?\" 😍",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Una tienda creada pensando en todas nosotras , donde puedes encontrar todo tipo de tallaje, te dan la facilidad de tener su propia modista la cual te ayuda a salir del paso de lo que sea que necesites . Una vez la conoces , piensas para que voy a comprar en otro sitio , si tengo a SIEMPRE BONITA 😍",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Klaudia Pikako shop",
+        "uri": "https://www.google.com/maps/contrib/111848831123810258398/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKzHShqsCs-y-PI3Q8UER76iECN5LkjKzgwa3u7ZF0RnrGvmQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-06-03T17:43:03.870281485Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jeldqQmxla3hoTTNBM1ZFZ3ljRFJzV0dwQmNrRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jeldqQmxla3hoTTNBM1ZFZ3ljRFJzV0dwQmNrRRAB!2m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/reviews/Ci9DQUlRQUNvZENodHljRjlvT210c01pMWllbXMzZFVzeVFrOUJkWEJaVjNkTlVuYxAB",
+      "relativePublishTimeDescription": "4 months ago",
+      "rating": 5,
+      "text": {
+        "text": "Amazing store. With wonderful people working there. Yoli is always attentive to your needs, and if they don't have it, she'll find it and get it for you. Quality clothing in all sizes. They're live on TikTok so you can see the new arrivals, and then they'll reserve items for you to try on. Plus, they ship! My go-to place. Thank you so much because I ALWAYS LOOK GREAT!!",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Grandisima tienda. Con grandisimas personas a su alrededor. Yoli siempre atenta a lo que necesitas y si no hay te lo busca y te lo trae. Ropa de calidad y todas las tallas.Directos en tiktok para poder ver las novedades, que luego te reserva para que puedas ir a probartelos. Encima hacen envios. Mi sitio de confianza. Muchas gracias porque SIEMPRE VOY BONITA!!",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Leonor Plaza Ciudad",
+        "uri": "https://www.google.com/maps/contrib/105229156484799605792/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKCfkR2C8fXCecE2CBQXYhGDNTkmZSJdaqW95Y0FYrnoE_LaWAo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-06-04T17:59:20.792509469Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210c01pMWllbXMzZFVzeVFrOUJkWEJaVjNkTlVuYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210c01pMWllbXMzZFVzeVFrOUJkWEJaVjNkTlVuYxAB!2m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWaVVqWTBNVzgwVG5FeUxUUnJORzF3Wmw5ak1FRRAB",
+      "relativePublishTimeDescription": "4 months ago",
+      "rating": 5,
+      "text": {
+        "text": "Fantastic shop with great clothes, excellent quality for the price, the best part is the friendly service, plus they have sizes for everyone, what more could we ask for?",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Tienda estupenda con ropa genial calidad precio lo mejor el trato cercano además tallas para todas que más podemos pedir",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Maria Fernandez1980",
+        "uri": "https://www.google.com/maps/contrib/102380370479082807393/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIh5mUP4fTXCyFFqMsCu5VDV31_m8UY5dm0W_cjBViWszkEA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-06-03T19:34:31.816340122Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWaVVqWTBNVzgwVG5FeUxUUnJORzF3Wmw5ak1FRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWaVVqWTBNVzgwVG5FeUxUUnJORzF3Wmw5ak1FRRAB!2m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/photos/Aa-ngMbY_k9DW-Bcw5RaPOBIteR0glY3SdpjqDgAH7fPb2I1RG84J1Mt2k3Bw-h7-T6b2Q_xmbaISbrTNNexmCYiQqoQVTlq9NCxdpG9P70y26ZEzXWBqanRnsEAzqZByZtWibO0RbqYav0qsUcekj_B2RHBuQp_dJO6oMgAIjabi0ProRI7JwROKCNjPFxWr3Ex1p2tqgrha5Ji3FHu6GfibAHyfBzaCL_aUr_dPbkE2tBsF2QBxk2tDi9wywLSdFLgvbZkhC3F2pe1Lk9deIvN8WPzzhLryPV4S-ESMyq9YvRCtGDZ6v3k2tSruwgB3i6vTSZJcHT_jlFVHwpTO1KszURCszHQwbmPHs2n_EhfGLaleBQCx6_Y1GjjcQhAwTS-loeswxnEwTSMe2_l9jJ1ejPhm2rYC2pzzVbcwTUdzZdt1w",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Siempre Bonita",
+          "uri": "https://maps.google.com/maps/contrib/110900550212696336470",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLacORNR1mRhYP4G2aBY1otziwLpwoTyyBsJxH2MXqtbiN6og=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAhroGEbTDdA02OT2QyKE1f&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAhroGEbTDdA02OT2QyKE1f!2e10!4m2!3m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/photos/Aa-ngMZvs18PZYLicuTVL8t9fJTunG4LU0AMQk6G_Vy4ipOsDVRz18L1V6rSrdJUvH8a5uk4E35YRTPSKtfrP_DOEo4AEU_r6AJKoi9lAQf4LEQJjcDppO2G9TCnuquzSdWRrcD44zQKbHYtzQOVyzu4-5mq4EwGFtNbAI9rZCKw8k5W0BhksodHDT_brCyAt_OH0d_9-1U-v_LkHRn3NpmjtqX7xLWYK4BdIHagi73BggaDvpGYKsDuPjWyXFi11wImSPefYLg8qBEsV2tQhI9bWeLTXO0HDiIuWlbnDeqE8vBkXXbSDS30YCLx2OH_DXfbdzrFQYaVsZnOY8XvuiF_RHilaXSEpggiXKN8o1MRlqh4NrWkEJ5VB_oft-HHpnUwnHwgeKGxp4DsKyoQmaWyA9incR00SbPGjfQNB07lCb8u",
+      "widthPx": 3264,
+      "heightPx": 2448,
+      "authorAttributions": [
+        {
+          "displayName": "Noemi Ibañez",
+          "uri": "https://maps.google.com/maps/contrib/111384564925347112392",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUW6slS7tpU3n6yHb3uz0RP7VpzAjj7QUQWufLvMrvrsUj4paAo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBT8_g2F-bY4jB6Oi0hUZeZ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBT8_g2F-bY4jB6Oi0hUZeZ!2e10!4m2!3m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/photos/Aa-ngMbwztCsXxfvldQqpwLmDk4Hvs_pH2l6USTZJDTImdgVznl6TEFEgt3TdyYD2rw6FBFN0_DX-ZC2jL6LwD1jqNDAYbQDCqyqcVqW9kHiSYQVL5tmjAZDPT7gKptXK5MImD0mWEUQXDpvBQWEO4ApemqAPxcevQueQBRXFq7cWqfhuB13S8xHlib8soY41SXDvVm_9WfGZBIonx6YxQwbFRDCUBZX1FF90-Y_1--H2W0AhS-C4cmDIDADI_bvUOSV4ly1WALoxIQ1FsXY91SOMarvqaoKqHFTXJso3WNsY_a8Pt3bHGuF9Vx8bs6G6eWaF53Yzkuc8aB5BZM1e5Z8MQAqHRJyboSmuoOd097LNbNi6L2DS6QhwyhT7bEQrs4wu8lJoQqj8LxwZnaNcLUoGR0wxfpCcVhHBFgeb_FjSMpMvw",
+      "widthPx": 2448,
+      "heightPx": 3264,
+      "authorAttributions": [
+        {
+          "displayName": "Noemi Ibañez",
+          "uri": "https://maps.google.com/maps/contrib/111384564925347112392",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUW6slS7tpU3n6yHb3uz0RP7VpzAjj7QUQWufLvMrvrsUj4paAo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAW4kHWa8TSOPpGpXrW5raJ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAW4kHWa8TSOPpGpXrW5raJ!2e10!4m2!3m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/photos/Aa-ngMZPWKmTkjKFndUSPHb-GqSe5ZaFSLH4NgGtyTVnKfOjWfP1JKv38O50zR4ivEzs4LyMGk4rPwc92z1dSnJzkmgfa4YXpwHazOCLfVnpJWPnqsUzIfvn4rAgngCJEuYZIo3Q5UR3d09znHD_-RefYbgsQsCoMejJ5hs5bEkY2EkMGYiPbQqOchTAANYxik6hA7XDEj7T6Y4nmjCfkvmB8NhcHoQktv49LjEvI5e1gxE3JVV0F_9TUAaJZ7T5Y-rGZ7qFaQE6bxB8EAxnSPg5vX5ZbiGl-FjtgY-hi_aiChhNJAzP5WvwrizXXbmdXnfLfPCRQZwBMerGeDzgyzbKKUFjtWwD9vjQSTm5zdcDJhtSrh-ZY5Q06nkSrs-I4bMhyN9BOR4WIEHR2zlQaR5tFZiEptSbr1Uvrtaqc_MH5o681A",
+      "widthPx": 3264,
+      "heightPx": 2448,
+      "authorAttributions": [
+        {
+          "displayName": "Noemi Ibañez",
+          "uri": "https://maps.google.com/maps/contrib/111384564925347112392",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUW6slS7tpU3n6yHb3uz0RP7VpzAjj7QUQWufLvMrvrsUj4paAo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC2s0AXVsC-mioh5t2ZZmfd&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC2s0AXVsC-mioh5t2ZZmfd!2e10!4m2!3m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/photos/Aa-ngMaaEP7twiIQXzP8oeYBpxatx9Zv-OzvtbfRJNn9hZSoDzy5b3qrEPeu21eLzFAai1l5Sb6hlJ_rH9FPu-r_kf7URlDVzJxmBtBNKEkH3BnG7WYjLXI7AkpNsgjd53qxwklOThVxA2S_cilrOn6XbRYCEnm6-jfc7cO3tHeLU2InTyUZ6s59WVEYS6UMOBxYdetRaW2A58kFYCOhIYrI_V1XZ3CkAKVUoKWs5Y5GJhXrvo7QqmZbK7ChH5fHjGFQ5D7-d80rPTsHDQn38RuM-tMLibjaBss3ipXmoDs7_XXYyiKjWi7bVMhisnSfgGCVIHAyxrRBYfD6UOwV0A4DNrF18wboa-1a4BU1kfBR5XsO4-a86kFIh1nNHblTSJCsXPmaypH6FWTSEvQYxsTRbsETRqA4COs_TqV8M5lDdn1aUQ",
+      "widthPx": 2448,
+      "heightPx": 3264,
+      "authorAttributions": [
+        {
+          "displayName": "Noemi Ibañez",
+          "uri": "https://maps.google.com/maps/contrib/111384564925347112392",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUW6slS7tpU3n6yHb3uz0RP7VpzAjj7QUQWufLvMrvrsUj4paAo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCWEbHFBp_Ysv2RwFzt1DxW&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCWEbHFBp_Ysv2RwFzt1DxW!2e10!4m2!3m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    },
+    {
+      "name": "places/ChIJazMyIgCLQQ0Rjr4VvgQdAr4/photos/Aa-ngMbp60TDA60SFXow58Qj-cPbuJzwVgq1Z9h-QFwYwl7GAfqEPhjLUmZPnXcgtjBFjXChwbyWuFEX8zFzYI4Itp5978tLT_1CNAaSPFmuUkcxFkOtLRg3RUQc0VzmOl9-BYvS0hGGAcFUbfOBIk8EfJMMqd8IxmVTj1vFP5gyianDJ_bA-J6mUKKWfJy7wDilmlUZt6qr0H9C15XEqTMRJ6bK4P6skJ7QEDq3Ui41PfREckbTBtz69AbF9D1kukEENZQIVQht3WSOgEmJ7d1T2iHsOxVIbl25aVDuauDRsXBQVvwM411YqcJSqBQAuZNr7dZLfAQrhfIdGrMI3vneiWnnxYzwlwl_PuD0kdkT8tLSkb8MR85TOsg6iUX-kVtEi2oRrVlfR92hz1kzDAMe_mek1BqbZrRXEXYfA2LoS6wuqg",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "melanie moreno",
+          "uri": "https://maps.google.com/maps/contrib/113402389758411779521",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6PtDOrykafijJGeu4bf54oc9ZHM-b4BpIJOXNLWM7itdgF20=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDl7pDN2z8-tz8h5GMFebBy&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDl7pDN2z8-tz8h5GMFebBy!2e10!4m2!3m1!1s0xd418b002232336b:0xbe021d04be15be8e"
+    }
+  ]
+}
